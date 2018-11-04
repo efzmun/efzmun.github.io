@@ -1,0 +1,17 @@
+---
+layout:     post
+title:      "News 2"
+subtitle:   " Donald Trump: FAKE NEWS!""
+date:       2018-11-01 12:00:00
+author:     "Washington Post"
+header-img: "img/post-bg-2015.jpg"
+tags:
+    - Washington Post
+    - Donald Trump
+    - TAG 4
+---
+
+> “FAKE NEWS! ”
+
+
+news by washington post
