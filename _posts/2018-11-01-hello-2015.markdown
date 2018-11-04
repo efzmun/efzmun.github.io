@@ -1,15 +1,16 @@
 ---
 layout:     post
-title:      "News 2"
-subtitle:   " Donald Trump: FAKE NEWS!""
-date:       2018-11-01 12:00:00
+title:      "NEWS 2"
+subtitle:   "President Trump speaks. "
+date:       2018-11-01
 author:     "Washington Post"
-header-img: "img/post-bg-2015.jpg"
+header-img: "img/contact-bg.jpg"
 tags:
     - Washington Post
     - Donald Trump
-    - TAG 4
+    - Election
 ---
+
 
 > “FAKE NEWS! ”
 
