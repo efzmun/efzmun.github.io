@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "FAKE NEWS!"
-subtitle:   "President Trump speaks. "
+subtitle:   "President Trump says. "
 date:       2018-11-01
 author:     "Washington Post"
 header-img: "img/contact-bg.jpg"
