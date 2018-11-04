@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "NEWS 2"
+title:      "FAKE NEWS!"
 subtitle:   "President Trump speaks. "
 date:       2018-11-01
 author:     "Washington Post"
