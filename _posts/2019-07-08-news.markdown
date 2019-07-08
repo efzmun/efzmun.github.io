@@ -2,7 +2,7 @@
 layout:     post
 title:      "秘书长有话说"
 subtitle:   "本次大会秘书长将宣布重大新闻......"
-date:       2019-07-06
+date:       2019-07-08
 author:     "胡君霖"
 header-img: "img/in-post/post-07-08-admin-02.jpg"
 tags:
