@@ -1,0 +1,16 @@
+---
+layout:     post
+title:      "mainpress.center域名遭到DNS劫持"
+subtitle:   "介于域名被污染，Leo Huang决定改用原生域名efzmuncmpc.github.io"
+date:       2019-07-08
+author:     "Leo Huang (Admin)"
+header-img: "img/in-post/post-07-08-admin-01.jpg"
+tags:
+    - Admin
+    - 会议消息
+---
+
+EAMUNC 2019 即将召开，各项会前准备在紧张有序地进行。
+
+而这个网站......
+却出其不意地遭受到了DNS劫持，导致mainpress.center的域名被解析到了许多离奇的ip地址上，域名无法访问。由于域名污染暂无可靠有效的解决方法（除让所有访问者修改dns外），神秘人物Leo Huang临时
