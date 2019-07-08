@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "EAMUNC 2019 即将召开"
+title:      "EAMUN 2019 即将召开"
 subtitle:   "大会官网&新闻发布平台 mainpress.center 已经上线......"
 date:       2019-07-06
 author:     "Leo Huang (Admin)"
