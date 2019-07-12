@@ -6,7 +6,7 @@ date:       2019-07-08
 author:     "胡君霖"
 header-img: "img/in-post/post-07-08-admin-02.jpg"
 tags:
-    - Admin
+    - 胡君霖
     - 会议消息
 ---
 
