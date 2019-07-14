@@ -1,21 +1,18 @@
 # Site settings
 title: EAMUNC 2019
-SEOTitle: Main Press Center
+SEOTitle: EAMUNC 2019 | EFZMUN
 header-img: img/home-bg.jpg
 email: leohuang501@hotmail.com
 description: "Main Press Center"
 keyword: ""
-url: "https://mainpress.center"            # your host, for absolute URL
+url: "https://efzmun.com"            # your host, for absolute URL
 baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 # SNS settings
-RSS: false
-#weibo_username:     huxpro
-#zhihu_username:     huxpro
+RSS: true
 #github_username:    efzmuncMPC
-#twitter_username:  huxpro
-#facebook_username:  huxpro
+
 
 
 
