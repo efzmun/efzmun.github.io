@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      "各会场背景文件相继发布"
+title:      "[置顶]各会场背景文件相继发布"
 subtitle:   "请各位查收w(゜Д゜)w"
-date:       2019-07-13
+date:       2020-07-1
 author:     "Leo Huang (Admin)"
 header-img: "img/in-post/post-07-12-admin-01.jpg"
 tags:
