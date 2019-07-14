@@ -1,0 +1,14 @@
+---
+layout:     post
+title:      "网站启用新域名efzmun.com"
+subtitle:   "超短域名efzmun.com将作为大会主页......"
+date:       2019-07-14
+author:     "Leo Huang (Admin)"
+header-img: "img/in-post/post-07-01-admin-01.jpg"
+tags:
+    - Admin
+    - 会议消息
+---
+
+经过一番又一番折腾，神秘人物Leo Huang终于为模联社获得了新域名efzmun.com.  
+"efz"代表“二附中”，而"mun"是"model united nations"的缩写，"efzmun"便是“二附中模联”的意思。
