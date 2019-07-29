@@ -4,7 +4,7 @@ title:      "胡俊霖骚不骚"
 subtitle:   "然而这些付款方竟然都是匿名......"
 date:       2019-07-30
 author:     "CNN 黄亮寰"
-header-img: "https://s2.ax1x.com/2019/07/29/e3X6r8.jpg"
+header-img: "https://s2.ax1x.com/2019/07/29/e8UHXQ.jpg"
 tags:
     - CNN
     - 安理会
