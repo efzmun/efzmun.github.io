@@ -4,7 +4,7 @@ title:      "维基解密:发现重大集资活动!"
 subtitle:   "然而这些付款方竟然都是匿名......"
 date:       2019-07-29
 author:     "Wikileaks"
-header-img: "https://imgchr.com/i/e3OSYR"
+header-img: "https://s2.ax1x.com/2019/07/29/e3OSYR.jpg"
 tags:
     - Wikileaks
 ---
