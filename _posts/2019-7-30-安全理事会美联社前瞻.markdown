@@ -3,7 +3,7 @@ layout:     post
 title:      "安理会将针对委内瑞拉问题召开大会"
 subtitle:   "干涉内政？人民自由。"
 date:       2019-07-30
-author:     "美联社 梁国泰"
+author:     "美联社 吴雨轩"
 header-img: "img/in-post/post-07-01-admin-01.jpg"
 tags:
     - 安理会
