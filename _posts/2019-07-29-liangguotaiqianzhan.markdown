@@ -1,12 +1,12 @@
 ---
 layout:     post
-title:      "环规属前瞻报道"
+title:      "环规署前瞻报道"
 subtitle:   "非洲各国要不等不靠，担负起保护野生动物历史重任"
 date:       2019-07-30
 author:     "美联社 梁国泰"
 header-img: "img/in-post/post-07-01-admin-01.jpg"
 tags:
-    - 环规属
+    - 环规署
     - 美联社
 ---
 
