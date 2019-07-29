@@ -1,0 +1,15 @@
+---
+layout:     post
+title:      "标题"
+subtitle:   "副标题"
+date:       2019-07-30
+author:     "CNN 黄亮寰"
+header-img: "img/in-post/post-07-01-admin-01.jpg"
+tags:
+    - 安理会
+    - CNN
+---
+
+A lie is a lie is a lie,” Whoopi Goldberg said. It was May 2nd, and she was on the set of “The View,” the daytime talk show that she co-hosts. The subject was Attorney General William Barr, who had argued that the special counsel Robert Mueller’s report was not as alarming as it seemed—endorsing Donald Trump’s claim that there had been “no collusion, no obstruction” in the Russia case. Goldberg was incredulous. “Our parents taught us, if you lie, there are consequences,” she said. “When are consequences coming back?”
+
+Her guest, the attorney Alan Dershowitz, offered an answer that combined legal analysis and political handicapping. “They come back in November of 2020, when we all go to the polls and we vote against people that we think lied,” he said. “But it would be a terrible thing”—he held up a finger for emphasis—“to criminalize lies.”
