@@ -4,7 +4,7 @@ title:      "Hello Mi Fans"
 subtitle:   "Do you want free Mi Band?"
 date:       2019-07-30
 author:     "Qifei Min"
-header-img: "img/in-post/post-07-01-admin-01.jpg"
+header-img: "https://s2.ax1x.com/2019/07/29/e8D2nS.jpg"
 tags:
     - CNN
     - FAO
