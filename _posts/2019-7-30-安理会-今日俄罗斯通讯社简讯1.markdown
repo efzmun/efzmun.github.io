@@ -2,7 +2,7 @@
 layout:     post
 title:      "今日俄罗斯通讯社-简讯"
 subtitle:   ""
-date:       2019-08-1 2：00
+date:       2019-07-30 12：00
 author:     "今日俄罗斯通讯社 顾宇阳"
 header-img: "img/in-post/post-07-01-admin-01.jpg"
 tags:
