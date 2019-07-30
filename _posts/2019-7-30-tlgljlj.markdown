@@ -2,7 +2,7 @@
 layout:     post
 title:      "环规署前瞻报道"
 subtitle:   "人与动物：发展与平衡|肯尼亚期待各国与非洲的友好合作关系聚焦非洲野生动物危机——推动中非环保合作关系进一步发展"
-date:       2019-07-30 9:45:00
+date:       2019-07-29 23:45:00
 author:     "肯尼亚通讯社 陈依琳"
 header-img: "img/in-post/post-07-01-admin-01.jpg"
 tags:
