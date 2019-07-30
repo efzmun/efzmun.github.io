@@ -3,7 +3,7 @@ layout:     post
 title:      "Prospective Report on UNHRC refugee issues"
 subtitle:   ""
 date:       2019-07-30 01:00:00
-author:     "CNN 谭裕欣"
+author:     "Frankfurter Allgemeine Zeitung 谭裕欣"
 header-img: "https://s2.ax1x.com/2019/07/30/eGYcr9.jpg"
 tags:
     - UNHRC
