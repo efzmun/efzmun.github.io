@@ -7,7 +7,7 @@ author:     "Frankfurter Allgemeine Zeitung 谭裕欣"
 header-img: "https://s2.ax1x.com/2019/07/30/eGYcr9.jpg"
 tags:
     - UNHRC
-    - CNN
+    - Frankfurter Allgemeine Zeitung
 ---
 
  These days, the issues for human rights of refugees in recipient countries are bringing increasingly sharp focus. Delegates of all members of states are gathering together, trying to find potential approaches to the problem.  
