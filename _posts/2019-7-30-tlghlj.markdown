@@ -2,7 +2,7 @@
 layout:     post
 title:      "巴西、美国等国家纷纷提出设立委员会"
 subtitle:   "委员会的设立困难重重"
-date:       2019-07-30 10:31:00
+date:       2019-07-30 12:00:00
 author:     "肯尼亚通讯社 陈依琳"
 header-img: "img/in-post/post-07-01-admin-01.jpg"
 tags:
