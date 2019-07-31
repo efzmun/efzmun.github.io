@@ -4,7 +4,7 @@ title:      "维基解密:Fuduji病毒席卷全球"
 subtitle:   "这是一场阴谋..."
 date:       2019-07-31 24:00
 author:     "Wikileaks"
-header-img: "img/in-post/post-07-01-admin-01.jpg"
+header-img: "https://s2.ax1x.com/2019/07/26/enCT9P.jpg"
 tags: 
     - FAO
     - 环规署
